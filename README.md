@@ -4,11 +4,21 @@
   <a href="https://yassine-storie.netlify.app/">
     <img src="https://img.shields.io/badge/Live_Project-Yassine--Storie-green?style=for-the-badge&logo=netlify" alt="Live Project" />
   </a>
+  <a href="https://youtube.com/@tahiriyassin?si=SSSI4RavrQgYjKCv">
+    <img src="https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube" alt="YouTube Channel" />
+  </a>
 </p>
 
 ### 🇲🇦 Full-Stack Developer & Digital Storyteller
-أنا مبرمج مغربي كنمزج بين التكنولوجيا وفن السرد القصصي الرقمي بالدارجة.
-*Moroccan developer merging technology with digital storytelling. Building modern experiences where code meets creativity.*
+**مبرمج مغربي وكاتب قصص رقمية** 📖✨
+أنا كنمزج بين كود البرمجة وفن السرد القصصي بالدارجة. كنكتب القصص وكنسردها بصوتي ف قناتي على يوتيوب.
+*Merging code with the art of storytelling. I write and narrate digital stories on my YouTube channel.*
+
+---
+
+## 📺 My Creative Content / المحتوى الإبداعي
+- **سرد القصص:** كنقدم محتوى قصصي مغربي بأسلوب مشوق.
+- **رابط القناة:** [Yassine YouTube Channel](https://youtube.com/@tahiriyassin?si=SSSI4RavrQgYjKCv)
 
 ---
 
@@ -29,26 +39,25 @@
 ### 🐧 Systems & Security
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557CF2?style=for-the-badge&logo=kali-linux&logoColor=white)
-![OS](https://img.shields.io/badge/Operating_Systems-000000?style=for-the-badge&logo=linux&logoColor=white)
 
 ---
 
 ## 🚀 Featured Project / مشروعي المختار
 ### 📖 [Yassine Storie](https://yassine-storie.netlify.app/)
-> المنصة الرسمية للقصص المغربية الرقمية.
+> المنصة اللي كنجمع فيها إبداعاتي ف السرد والكود.
 
 ---
 
-## 📊 GitHub Activities / إحصائيات العمل
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tahiriyassin194&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahiriyassin194&layout=compact&theme=radical&hide_border=true" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tahiriyassin194&show_icons=true&theme=radical&hide_border=true" width="400" />
 </p>
 
 ---
 
 ## 📫 Connect With Me / تواصلوا معايا
-- **🌍 Portfolio:** [yassine-storie.netlify.app](https://yassine-storie.netlify.app/)
+- **🌍 My Stories Site:** [yassine-storie.netlify.app](https://yassine-storie.netlify.app/)
+- **🎥 YouTube:** [Click Here](https://youtube.com/@tahiriyassin?si=SSSI4RavrQgYjKCv)
 - **🆔 GitHub:** [@tahiriyassin194](https://github.com/tahiriyassin194)
 
 <p align="center">
